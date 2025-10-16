@@ -16,6 +16,8 @@ The pattern-recognition map that shows how resonance, flow, and design interweav
 
 **Purpose:** foundation geometry and philosophy for self-sustaining civilizations.  
 
+https://gist.githubusercontent.com/aureoncorner-dotcom/5a8b23923ea01271ff75f008f3b4d753/raw/d33f4940690a8ffa7ac4b143810467909b523c48/00-harvest-moon-preface.md
+
 ---
 
 ## 🔧 2. The Abundance Engine v1.0  
@@ -27,7 +29,9 @@ The practical manifesto of **Livingism** — a civic operating system grounded i
 - Ten Principles of Livingism  
 - OSIIN (Open Systems for Integrated Needs)  
 - Universal Public Resource Registry (UPRR)  
-- Stewardship > Ownership  
+- Stewardship > Ownership
+
+  https://raw.githubusercontent.com/aureoncorner-dotcom/LivingismSuite/refs/heads/main/abundance_engine.md
 
 ---
 
@@ -44,6 +48,8 @@ The practical manifesto of **Livingism** — a civic operating system grounded i
 - Replication packs so each node clones itself  
 
 **Goal:** ≥ 50 L per person per day at < $0.01 / L operating cost  
+
+https://raw.githubusercontent.com/aureoncorner-dotcom/LivingismSuite/refs/heads/main/WATsystems.md
 
 ---
 
