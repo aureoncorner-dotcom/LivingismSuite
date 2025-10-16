@@ -16,10 +16,6 @@ The pattern-recognition map that shows how resonance, flow, and design interweav
 
 **Purpose:** foundation geometry and philosophy for self-sustaining civilizations.  
 
-**Downloads**  
-- [📄 PDF / EPUB / RAW files → ADD LINK HERE](#)  
-- Mirror: [Internet Archive → ADD LINK HERE](#)
-
 ---
 
 ## 🔧 2. The Abundance Engine v1.0  
@@ -32,10 +28,6 @@ The practical manifesto of **Livingism** — a civic operating system grounded i
 - OSIIN (Open Systems for Integrated Needs)  
 - Universal Public Resource Registry (UPRR)  
 - Stewardship > Ownership  
-
-**Downloads**  
-- [📘 Abundance Engine Ch 1-10 PDF → ADD LINK HERE](#)  
-- Source folder: [`/abundance-engine/`](#)
 
 ---
 
@@ -52,9 +44,6 @@ The practical manifesto of **Livingism** — a civic operating system grounded i
 - Replication packs so each node clones itself  
 
 **Goal:** ≥ 50 L per person per day at < $0.01 / L operating cost  
-
-**Downloads**  
-- [`/wat-node/`](#) folder or [Internet Archive mirror → ADD LINK HERE](#)
 
 ---
 
