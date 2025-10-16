@@ -48,7 +48,7 @@ The practical manifesto of **Livingism** — a civic operating system grounded i
 ---
 
 ## 🧩 How to Use or Modify  
-1. Click **“Code → Download ZIP”** or run `git clone https://github.com/YOUR-REPO-NAME/LivingismSuite.git`.  
+1. Click **“Code → Download ZIP”** or run `git clone https://github.com/aureoncorner-dotcom/LivingismSuite.git`.  
 2. Edit any text or schematic.  
 3. Keep the license lines intact so derivatives stay open.  
 4. Re-upload anywhere — credit **Aureon** and link back here.  
