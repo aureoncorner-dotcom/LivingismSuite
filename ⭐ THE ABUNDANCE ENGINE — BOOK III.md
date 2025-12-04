@@ -21,6 +21,9 @@
 
 *(This is built to align perfectly with Books I & II AND CTA-V through CTA-XI timelines.)*
 
+Book 4 aligns with Book III Section 18.13:
+AI may advise only in technical domains under the 70% Rule.
+AI may not interpret human domains at any confidence level.
 ---
 
 # **SECTION 1 — The Physics of Abundance**
@@ -234,7 +237,9 @@ The engine does not belong to a government, a company, or a prophet.
  It belongs to the future.  
  It belongs to us all.
 
-**As long as we share light, abundance cannot die.**
+**As long as we share light, abundance cannot die.*
+
+
 
 # **⭐ THE ABUNDANCE ENGINE — BOOK III**
 
