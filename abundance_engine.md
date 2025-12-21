@@ -2,6 +2,10 @@
 
 > "To live well is to live for all."
 
+Optional depth, not required belief.
+A lens, not a law.
+An ethic, not a gate.
+
 Livingism is the guiding philosophy at the heart of the Abundance Engine—a design pattern for sustaining life abundantly, without exploitation or manufactured lack. It is not a belief system; it is a discipline of cooperation, regeneration, and mutual care.
 
 Livingism holds that the well-being of all life is the proper orientation of knowledge, labor, and technology. It stands in active resistance to any structure that converts life into commodity, knowledge into control, or community into market.
