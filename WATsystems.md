@@ -1,3 +1,7 @@
+# License Summary –  Water Abundance Torus (WAT)
+All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+No rights reserved. 
+
 # Water Abundance Torus (WAT)
 
 **Goal:** Permanent, non-enclosable water security run as a commons—not a utility to be captured.
@@ -8,7 +12,7 @@
 
 No crowns. No chains. Water is a commons, not a commodity.
 
-**Copyleft for life:** Every design, bill of materials, control script and playbook licensed CC BY-NC-SA / GPL (no enclosure).
+**Copyleft for life:** Every design, bill of materials, control script and playbook.
 
 **Consent governance:** Users can enter/leave; decisions by Covenant of Equals (no shareholder override).
 
