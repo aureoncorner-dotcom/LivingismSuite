@@ -73,6 +73,8 @@ No crowns. No chains. Water is a commons, not a commodity.
 **Commons Guilds:** Pump Guild, Tank Guild, Wetland Guild—rotating, trained, paid in timebank credits + small stipends when available.
 
 **Mutual credit:** Time → water credits; credits also redeemable for repair priority or seedlings.
+Essentials are unconditional (e.g., 50 L/person/day baseline is not credit-gated)
+Credits only affect priority extras (seedlings, garden water beyond baseline, convenience delivery, etc.)
 
 **Open ledger:** Transparent dashboard shows inflows, outflows, leaks, downtime—no black boxes.
 
